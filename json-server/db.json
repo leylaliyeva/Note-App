@@ -1,0 +1,18 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "title": "yes",
+      "text": "hello",
+      "color": "grey",
+      "isArchive": "false"
+    },
+    {
+      "id": 3,
+      "title": "no",
+      "text": "world",
+      "color": "red",
+      "isArchive": "true"
+    }
+  ]
+}
